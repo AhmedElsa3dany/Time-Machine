@@ -67,7 +67,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: '',
       accent: Color(0xffd8eaff),
       icon: Icons.auto_awesome,
-      video: 'assets/time_machine/videos/hook.mp4',
+      video: 'assets/time_machine/videos/01_hook.mp4',
     ),
     Era(
       name: 'ANCIENT',
@@ -75,7 +75,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: '3000 BC — 0',
       accent: Color(0xffffc978),
       icon: Icons.account_balance,
-      video: 'assets/time_machine/videos/ancient.mp4',
+      video: 'assets/time_machine/videos/02_ancient.mp4',
     ),
     Era(
       name: 'MEDIEVAL',
@@ -83,7 +83,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: '500 — 1500',
       accent: Color(0xffd48781),
       icon: Icons.shield_outlined,
-      video: 'assets/time_machine/videos/medieval.mp4',
+      video: 'assets/time_machine/videos/03_medieval.mp4',
     ),
     Era(
       name: 'INDUSTRIAL',
@@ -91,7 +91,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: '1760 — 1900',
       accent: Color(0xffe0b78d),
       icon: Icons.settings_outlined,
-      video: 'assets/time_machine/videos/industrial.mp4',
+      video: 'assets/time_machine/videos/04_industrial.mp4',
     ),
     Era(
       name: 'CYBERPUNK',
@@ -99,7 +99,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: '1980 — 2100',
       accent: Color(0xff53eaff),
       icon: Icons.bolt_outlined,
-      video: 'assets/time_machine/videos/cyberpunk.mp4',
+      video: 'assets/time_machine/videos/05_cyberpunk.mp4',
     ),
     Era(
       name: 'FUTURE',
@@ -107,7 +107,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: '2100 — ∞',
       accent: Color(0xffbfe7ff),
       icon: Icons.blur_on,
-      video: 'assets/time_machine/videos/future.mp4',
+      video: 'assets/time_machine/videos/06_future.mp4',
     ),
     Era(
       name: 'FINALE',
@@ -115,7 +115,7 @@ class _TimeMachineShowcaseState extends State<TimeMachineShowcase>
       years: 'PAST — PRESENT — FUTURE',
       accent: Color(0xffd6ceff),
       icon: Icons.all_inclusive,
-      video: 'assets/time_machine/videos/finale.mp4',
+      video: 'assets/time_machine/videos/07_finale.mp4',
     ),
   ];
 
